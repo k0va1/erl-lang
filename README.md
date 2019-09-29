@@ -1,12 +1,17 @@
 # erl-lang
 
-dictionary learning helping app 
+Words rehearsal application
 
 # Domain
 
-* User
-* Word
-* Dictionary(Words belong to User)
-* FrequencyDictionary(Worlds in general grouped by frequency)
-* ReviseGroup
-* WordProgress
+## User
+ * email
+ * name
+ * lingualeo_token
+
+## Word
+## Dictionary(Words belong to User)
+## FrequencyDictionary(Worlds in general grouped by frequency)
+## Exercise
+## ReviseGroup
+## WordProgress
