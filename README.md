@@ -1,2 +1,2 @@
 # erl-lang
-dictionary lerarning helping app 
+words rehearsal application
